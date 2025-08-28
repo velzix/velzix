@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @velzix (Ariel Ernesto Cedeño De León)  
-- 👀 I’m interested in technology, problem-solving, and innovative software development.  
-- 🌱 I’m currently learning advanced computer science concepts and improving my skills in Python, C, HTML, CSS, and JavaScript.
+- 👋 Hi, I’m @velzix (Ariel Ernesto Cedeno De Leon)  
+- 👀 I’m interested in technology, problem-solving, and innovative software/game development.  
+- 🌱 I’m currently learning advanced computer science concepts and improving my skills in Python and C
 - 💞️ I’m looking to collaborate on open-source projects and impactful tech innovations.  
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/arielcedeno) | Email: arielutp18@gmail.com
 - 😄 Pronouns: He/Him  
